@@ -1,0 +1,66 @@
+.admin-header{
+    border: 1px solid #ddd;
+    height: 150px;
+    background: skyblue;
+}
+.admin-header h2{
+   margin: 65px 0px 0px 30px;
+   font-size: 23px;
+}
+.uye{
+    margin: 40px;
+    font-size: 15px;
+    color: lightslategray;
+
+}
+.admin-icerik{
+    margin-top: 20px;
+}
+.admin-menu{
+    border: 1px solid #ddd ;
+    width: 300px;
+    min-height: 600px;
+    background: white;
+    float: left;
+}
+.admin-menu ul li{
+    border :1px solid #ddd;
+    padding: 10px;
+    font-size: 20px;
+}
+.admin-menu ul li :hover{
+    background: #eee;
+}
+.admin-icerik-sag{
+    float: left;
+    margin-left: 20px;
+    border: 1px solid #ddd;
+    width: 75%;
+    min-height: 200px;
+    background: white;
+}
+.admin-icerik-sag h2{
+    border:1px solid #ddd;
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    background: #eee;
+
+}
+.konular th{
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-size: 19px;
+    background: #eee;
+}
+.konular{
+    margin: 5px;
+}    
+.konular td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-size: 17px;
+}
+.konular tbody :hover{
+    background: #eee;
+}
